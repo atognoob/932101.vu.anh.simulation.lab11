@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WlUfC9aVIOSrSv2wj6GrTmuCWZtYnRanF0jUdNYSnvEg/sg6YpAvC7mpkbsOoTzeJSxTBtv4lk9SWoVXpXOhSg==",
+  "success": true,
+  "projectFilePath": "\\\\Mac\\Home\\Documents\\семестр 6\\имитационное моделирование\\lab1\\932101.vu.anh.simulation.lab11\\lab11\\Lab8.3\\Lab8.3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vuhoanganh\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512",
+    "C:\\Users\\vuhoanganh\\.nuget\\packages\\winforms.datavisualization\\1.9.2\\winforms.datavisualization.1.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}

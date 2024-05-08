@@ -1,0 +1,84 @@
+C:\College\my\3_course\2 семестр\имитационка\Lab8.3\Lab8.3\bin\Debug\net6.0-windows\Lab8.3.exe
+C:\College\my\3_course\2 семестр\имитационка\Lab8.3\Lab8.3\bin\Debug\net6.0-windows\Lab8.3.deps.json
+C:\College\my\3_course\2 семестр\имитационка\Lab8.3\Lab8.3\bin\Debug\net6.0-windows\Lab8.3.runtimeconfig.json
+C:\College\my\3_course\2 семестр\имитационка\Lab8.3\Lab8.3\bin\Debug\net6.0-windows\Lab8.3.dll
+C:\College\my\3_course\2 семестр\имитационка\Lab8.3\Lab8.3\bin\Debug\net6.0-windows\Lab8.3.pdb
+C:\College\my\3_course\2 семестр\имитационка\Lab8.3\Lab8.3\obj\Debug\net6.0-windows\Lab8._3.Form1.resources
+C:\College\my\3_course\2 семестр\имитационка\Lab8.3\Lab8.3\obj\Debug\net6.0-windows\Lab8.3.csproj.GenerateResource.cache
+C:\College\my\3_course\2 семестр\имитационка\Lab8.3\Lab8.3\obj\Debug\net6.0-windows\Lab8.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\College\my\3_course\2 семестр\имитационка\Lab8.3\Lab8.3\obj\Debug\net6.0-windows\Lab8.3.AssemblyInfoInputs.cache
+C:\College\my\3_course\2 семестр\имитационка\Lab8.3\Lab8.3\obj\Debug\net6.0-windows\Lab8.3.AssemblyInfo.cs
+C:\College\my\3_course\2 семестр\имитационка\Lab8.3\Lab8.3\obj\Debug\net6.0-windows\Lab8.3.csproj.CoreCompileInputs.cache
+C:\College\my\3_course\2 семестр\имитационка\Lab8.3\Lab8.3\obj\Debug\net6.0-windows\Lab8.3.dll
+C:\College\my\3_course\2 семестр\имитационка\Lab8.3\Lab8.3\obj\Debug\net6.0-windows\refint\Lab8.3.dll
+C:\College\my\3_course\2 семестр\имитационка\Lab8.3\Lab8.3\obj\Debug\net6.0-windows\Lab8.3.pdb
+C:\College\my\3_course\2 семестр\имитационка\Lab8.3\Lab8.3\obj\Debug\net6.0-windows\Lab8.3.genruntimeconfig.cache
+C:\College\my\3_course\2 семестр\имитационка\Lab8.3\Lab8.3\obj\Debug\net6.0-windows\ref\Lab8.3.dll
+C:\College\my\3_course\2 семестр\имитационка\Lab8.3\Lab8.3\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\College\my\3_course\2 семестр\имитационка\Lab8.3\Lab8.3\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\College\my\3_course\2 семестр\имитационка\Lab8.3\Lab8.3\obj\Debug\net6.0-windows\Lab8.3.csproj.AssemblyReference.cache
+C:\College\my\3_course\2 семестр\имитационка\Lab8.3\Lab8.3\obj\Debug\net6.0-windows\Lab8.3.csproj.CopyComplete
+E:\Вуз\3 курс\2 семестр\imitLabs\lab9\Lab8.3\bin\Debug\net6.0-windows\Lab8.3.exe
+E:\Вуз\3 курс\2 семестр\imitLabs\lab9\Lab8.3\bin\Debug\net6.0-windows\Lab8.3.deps.json
+E:\Вуз\3 курс\2 семестр\imitLabs\lab9\Lab8.3\bin\Debug\net6.0-windows\Lab8.3.runtimeconfig.json
+E:\Вуз\3 курс\2 семестр\imitLabs\lab9\Lab8.3\bin\Debug\net6.0-windows\Lab8.3.dll
+E:\Вуз\3 курс\2 семестр\imitLabs\lab9\Lab8.3\bin\Debug\net6.0-windows\Lab8.3.pdb
+E:\Вуз\3 курс\2 семестр\imitLabs\lab9\Lab8.3\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+E:\Вуз\3 курс\2 семестр\imitLabs\lab9\Lab8.3\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+E:\Вуз\3 курс\2 семестр\imitLabs\lab9\Lab8.3\obj\Debug\net6.0-windows\Lab8.3.csproj.AssemblyReference.cache
+E:\Вуз\3 курс\2 семестр\imitLabs\lab9\Lab8.3\obj\Debug\net6.0-windows\Lab8._3.Form1.resources
+E:\Вуз\3 курс\2 семестр\imitLabs\lab9\Lab8.3\obj\Debug\net6.0-windows\Lab8.3.csproj.GenerateResource.cache
+E:\Вуз\3 курс\2 семестр\imitLabs\lab9\Lab8.3\obj\Debug\net6.0-windows\Lab8.3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Вуз\3 курс\2 семестр\imitLabs\lab9\Lab8.3\obj\Debug\net6.0-windows\Lab8.3.AssemblyInfoInputs.cache
+E:\Вуз\3 курс\2 семестр\imitLabs\lab9\Lab8.3\obj\Debug\net6.0-windows\Lab8.3.AssemblyInfo.cs
+E:\Вуз\3 курс\2 семестр\imitLabs\lab9\Lab8.3\obj\Debug\net6.0-windows\Lab8.3.csproj.CoreCompileInputs.cache
+E:\Вуз\3 курс\2 семестр\imitLabs\lab9\Lab8.3\obj\Debug\net6.0-windows\Lab8.3.csproj.CopyComplete
+E:\Вуз\3 курс\2 семестр\imitLabs\lab9\Lab8.3\obj\Debug\net6.0-windows\Lab8.3.dll
+E:\Вуз\3 курс\2 семестр\imitLabs\lab9\Lab8.3\obj\Debug\net6.0-windows\refint\Lab8.3.dll
+E:\Вуз\3 курс\2 семестр\imitLabs\lab9\Lab8.3\obj\Debug\net6.0-windows\Lab8.3.pdb
+E:\Вуз\3 курс\2 семестр\imitLabs\lab9\Lab8.3\obj\Debug\net6.0-windows\Lab8.3.genruntimeconfig.cache
+E:\Вуз\3 курс\2 семестр\imitLabs\lab9\Lab8.3\obj\Debug\net6.0-windows\ref\Lab8.3.dll
+E:\Вуз\3 курс\2 семестр\imitLabs\lab9\Lab8.3\bin\Debug\net6.0-windows\MathNet.Numerics.dll
+E:\Вуз\3 курс\2 семестр\imitLabs\lab11\Lab8.3\bin\Debug\net6.0-windows\Lab8.3.exe
+E:\Вуз\3 курс\2 семестр\imitLabs\lab11\Lab8.3\bin\Debug\net6.0-windows\Lab8.3.deps.json
+E:\Вуз\3 курс\2 семестр\imitLabs\lab11\Lab8.3\bin\Debug\net6.0-windows\Lab8.3.runtimeconfig.json
+E:\Вуз\3 курс\2 семестр\imitLabs\lab11\Lab8.3\bin\Debug\net6.0-windows\Lab8.3.dll
+E:\Вуз\3 курс\2 семестр\imitLabs\lab11\Lab8.3\bin\Debug\net6.0-windows\Lab8.3.pdb
+E:\Вуз\3 курс\2 семестр\imitLabs\lab11\Lab8.3\bin\Debug\net6.0-windows\MathNet.Numerics.dll
+E:\Вуз\3 курс\2 семестр\imitLabs\lab11\Lab8.3\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+E:\Вуз\3 курс\2 семестр\imitLabs\lab11\Lab8.3\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+E:\Вуз\3 курс\2 семестр\imitLabs\lab11\Lab8.3\obj\Debug\net6.0-windows\Lab8.3.csproj.AssemblyReference.cache
+E:\Вуз\3 курс\2 семестр\imitLabs\lab11\Lab8.3\obj\Debug\net6.0-windows\Lab8._3.Form1.resources
+E:\Вуз\3 курс\2 семестр\imitLabs\lab11\Lab8.3\obj\Debug\net6.0-windows\Lab8.3.csproj.GenerateResource.cache
+E:\Вуз\3 курс\2 семестр\imitLabs\lab11\Lab8.3\obj\Debug\net6.0-windows\Lab8.3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Вуз\3 курс\2 семестр\imitLabs\lab11\Lab8.3\obj\Debug\net6.0-windows\Lab8.3.AssemblyInfoInputs.cache
+E:\Вуз\3 курс\2 семестр\imitLabs\lab11\Lab8.3\obj\Debug\net6.0-windows\Lab8.3.AssemblyInfo.cs
+E:\Вуз\3 курс\2 семестр\imitLabs\lab11\Lab8.3\obj\Debug\net6.0-windows\Lab8.3.csproj.CoreCompileInputs.cache
+E:\Вуз\3 курс\2 семестр\imitLabs\lab11\Lab8.3\obj\Debug\net6.0-windows\Lab8.3.sourcelink.json
+E:\Вуз\3 курс\2 семестр\imitLabs\lab11\Lab8.3\obj\Debug\net6.0-windows\Lab8.3.csproj.Up2Date
+E:\Вуз\3 курс\2 семестр\imitLabs\lab11\Lab8.3\obj\Debug\net6.0-windows\Lab8.3.dll
+E:\Вуз\3 курс\2 семестр\imitLabs\lab11\Lab8.3\obj\Debug\net6.0-windows\refint\Lab8.3.dll
+E:\Вуз\3 курс\2 семестр\imitLabs\lab11\Lab8.3\obj\Debug\net6.0-windows\Lab8.3.pdb
+E:\Вуз\3 курс\2 семестр\imitLabs\lab11\Lab8.3\obj\Debug\net6.0-windows\Lab8.3.genruntimeconfig.cache
+E:\Вуз\3 курс\2 семестр\imitLabs\lab11\Lab8.3\obj\Debug\net6.0-windows\ref\Lab8.3.dll
+\\Mac\Home\Documents\семестр 6\imitLabs-main\lab11\Lab8.3\bin\Debug\net6.0-windows\Lab8.3.exe
+\\Mac\Home\Documents\семестр 6\imitLabs-main\lab11\Lab8.3\bin\Debug\net6.0-windows\Lab8.3.deps.json
+\\Mac\Home\Documents\семестр 6\imitLabs-main\lab11\Lab8.3\bin\Debug\net6.0-windows\Lab8.3.runtimeconfig.json
+\\Mac\Home\Documents\семестр 6\imitLabs-main\lab11\Lab8.3\bin\Debug\net6.0-windows\Lab8.3.dll
+\\Mac\Home\Documents\семестр 6\imitLabs-main\lab11\Lab8.3\bin\Debug\net6.0-windows\Lab8.3.pdb
+\\Mac\Home\Documents\семестр 6\imitLabs-main\lab11\Lab8.3\bin\Debug\net6.0-windows\MathNet.Numerics.dll
+\\Mac\Home\Documents\семестр 6\imitLabs-main\lab11\Lab8.3\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+\\Mac\Home\Documents\семестр 6\imitLabs-main\lab11\Lab8.3\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+\\Mac\Home\Documents\семестр 6\imitLabs-main\lab11\Lab8.3\obj\Debug\net6.0-windows\Lab8.3.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\семестр 6\imitLabs-main\lab11\Lab8.3\obj\Debug\net6.0-windows\Lab8._3.Form1.resources
+\\Mac\Home\Documents\семестр 6\imitLabs-main\lab11\Lab8.3\obj\Debug\net6.0-windows\Lab8.3.csproj.GenerateResource.cache
+\\Mac\Home\Documents\семестр 6\imitLabs-main\lab11\Lab8.3\obj\Debug\net6.0-windows\Lab8.3.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\семестр 6\imitLabs-main\lab11\Lab8.3\obj\Debug\net6.0-windows\Lab8.3.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\семестр 6\imitLabs-main\lab11\Lab8.3\obj\Debug\net6.0-windows\Lab8.3.AssemblyInfo.cs
+\\Mac\Home\Documents\семестр 6\imitLabs-main\lab11\Lab8.3\obj\Debug\net6.0-windows\Lab8.3.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\семестр 6\imitLabs-main\lab11\Lab8.3\obj\Debug\net6.0-windows\Lab8.3.csproj.CopyComplete
+\\Mac\Home\Documents\семестр 6\imitLabs-main\lab11\Lab8.3\obj\Debug\net6.0-windows\Lab8.3.dll
+\\Mac\Home\Documents\семестр 6\imitLabs-main\lab11\Lab8.3\obj\Debug\net6.0-windows\refint\Lab8.3.dll
+\\Mac\Home\Documents\семестр 6\imitLabs-main\lab11\Lab8.3\obj\Debug\net6.0-windows\Lab8.3.pdb
+\\Mac\Home\Documents\семестр 6\imitLabs-main\lab11\Lab8.3\obj\Debug\net6.0-windows\Lab8.3.genruntimeconfig.cache
+\\Mac\Home\Documents\семестр 6\imitLabs-main\lab11\Lab8.3\obj\Debug\net6.0-windows\ref\Lab8.3.dll
